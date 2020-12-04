@@ -2,5 +2,9 @@
   {
     "id": 524905,
     "relativePathToArticle": "./blog-posts/login-vuex-firebase/login-vuex-firebase.md"
+  },
+  {
+    "id": 533512,
+    "relativePathToArticle": "./blog-posts/roles-vuex-firebase/roles-vuex-firebase.md"
   }
 ]

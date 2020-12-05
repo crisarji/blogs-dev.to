@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Authentication with Vue(x)+Firebase"
 cover_image: "https://raw.githubusercontent.com/crisarji/blogs-dev.to/master/blog-posts/login-vuex-firebase/assets/vue-firebase.png"
 description: "Authentication(login, signup, password recovery) using Vue, Vuex and Firebase"

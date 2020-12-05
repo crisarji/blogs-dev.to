@@ -8,4 +8,6 @@ https://dev.to/crisarji
 
 ## Blog posts
 
-- [Authentication with Vue(x)+Firebase](https://dev.to/\<BLOG POST LINK\>)
+- [Authentication with Vue(x)+Firebase](https://dev.to/crisarji/authentication-with-vue-x-firebase-31dc)
+
+//TODO: add roles link

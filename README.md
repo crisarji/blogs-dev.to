@@ -14,4 +14,4 @@ Take into account that for the assets, the root url is a bit different; GitHub w
 
 - [Adding roles to the authentication with Vue(x)+Firebase](https://dev.to/crisarji/adding-roles-to-the-authentication-with-vue-x-firebase-2o62)
 
-- [Tailwind Feature: animate-pulse - TODO: Add the post URL here]
+- [Tailwind Feature: animate-pulse - TODO: Add the post URL right here]

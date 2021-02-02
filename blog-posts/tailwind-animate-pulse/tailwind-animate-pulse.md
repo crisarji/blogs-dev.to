@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 title: "Tailwind Feature: animate-pulse"
-cover_image: "https://raw.githubusercontent.com/crisarji/blogs-dev.to/master/blog-posts/tailwind-animate-pulse/assets/tailwind-animate-pulse-tw.gif"
+cover_image: "https://raw.githubusercontent.com/crisarji/blogs-dev.to/master/blog-posts/tailwind-animate-pulse/assets/animate-pulse-tw.gif"
 description: "Roles addition to the previous authentication using Firebase user claims, Firebase functions and Vue routing"
 tags: javascript, vue, tailwind
 series:

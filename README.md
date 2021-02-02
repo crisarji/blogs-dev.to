@@ -6,7 +6,7 @@ This repo contains different posts on dev.to
 
 https://dev.to/crisarji
 
-Take into account that for the assets, the root url is a bit different; GitHub will try to pull those assets from their own centralized path, so you can find those  in `https://raw.githubusercontent.com/<<your-github-user>>`
+Take into account that for the assets, the root url is a bit different; GitHub will try to pull those assets from their own centralized path, so you can find those in `https://raw.githubusercontent.com/<<your-github-user>>`
 
 ## Blog posts
 

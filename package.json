@@ -14,9 +14,17 @@
     "embedme:write": "yarn run embedme",
     "dev-to-git": "dev-to-git"
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn install && npm run prettier:write"
+    }
+  },
   "dependencies": {
     "dev-to-git": "^1.4.1",
     "embedme": "1.11.0",
     "prettier": "1.18.2"
+  },
+  "devDependencies": {
+    "husky": "^4.3.8"
   }
 }

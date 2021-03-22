@@ -10,5 +10,9 @@
   {
     "id": 589808,
     "relativePathToArticle": "./blog-posts/tailwind-animate-pulse/tailwind-animate-pulse.md"
+  },
+  {
+    "id": 642225,
+    "relativePathToArticle": "./blog-posts/firebase-firestore-rules/firebase-firestore-rules.md"
   }
 ]

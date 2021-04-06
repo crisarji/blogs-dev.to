@@ -14,5 +14,9 @@
   {
     "id": 642225,
     "relativePathToArticle": "./blog-posts/firebase-firestore-rules/firebase-firestore-rules.md"
+  },
+  {
+    "id": 656810,
+    "relativePathToArticle": "./blog-posts/github-workflow-secrets/github-workflow-secrets.md"
   }
 ]

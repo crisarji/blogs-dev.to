@@ -18,5 +18,9 @@
   {
     "id": 656810,
     "relativePathToArticle": "./blog-posts/github-workflow-secrets/github-workflow-secrets.md"
+  },
+  {
+    "id": 691377,
+    "relativePathToArticle": "./blog-posts/vue-slots/vue-slots.md"
   }
 ]

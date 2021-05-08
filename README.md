@@ -55,4 +55,6 @@ In case you cannot see the assets it is 99% sure that the path is wrong.
 
 - [Firebase Firestore Rules](https://dev.to/crisarji/firebase-firestore-rules-3mpc)
 
-- [Github Workflow Secrets](https://dev.to)
+- [Github Workflow Secrets](https://dev.to/crisarji/3-steps-for-handling-github-workflow-secrets-26om)
+
+- [Vue Slots + Reusable Components](https://dev.to)

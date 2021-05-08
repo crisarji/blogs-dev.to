@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 3 steps for handling GitHub Workflow Secrets
 description: Brief introduction to GitHub Workflow and Secrets
 tags: javascript, github, firebase, secrets

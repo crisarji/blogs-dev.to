@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Vue Slots and Reusable components 
 description: Reusable components in Vue(2/3) approaching slots
 tags: javascript, vue, github

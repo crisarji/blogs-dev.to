@@ -20,8 +20,10 @@
     }
   },
   "dependencies": {
+    "cacheable-request": "7.0.2",
     "dev-to-git": "^1.4.1",
     "embedme": "1.11.0",
+    "normalize-url": "6.0.1",
     "prettier": "1.18.2"
   },
   "devDependencies": {

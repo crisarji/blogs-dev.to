@@ -57,4 +57,6 @@ In case you cannot see the assets it is 99% sure that the path is wrong.
 
 - [Github Workflow Secrets](https://dev.to/crisarji/3-steps-for-handling-github-workflow-secrets-26om)
 
-- [Vue Slots + Reusable Components](https://dev.to)
+- [Vue Slots + Reusable Components](https://dev.to/crisarji/vue-slots-and-reusable-components-5g3p)
+
+- [My Vue Experience after 3 projects in 1.5 years](https://dev.to)

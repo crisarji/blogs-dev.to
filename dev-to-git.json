@@ -22,5 +22,9 @@
   {
     "id": 691377,
     "relativePathToArticle": "./blog-posts/vue-slots/vue-slots.md"
+  },
+  {
+    "id": 726269,
+    "relativePathToArticle": "./blog-posts/vue-experience-2021/vue-experience-2021.md"
   }
 ]

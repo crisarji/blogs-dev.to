@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: My Vue Experience after 3 projects in 18 months 
 description: Some of the best practices I learned after 3 projects in 1.5 years
 tags: javascript, vue, github

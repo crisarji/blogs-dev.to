@@ -45,6 +45,18 @@ So you can find your real deployed assets in:
 
 In case you cannot see the assets it is 99% sure that the path is wrong.
 
+## Features
+
+This is a nice features list that could work as base when listing up the topics related to a post
+
+|           | Included | ◾ Skipped |
+| --------- | :------: | :--------: |
+| Feature 1 |    ✅    |     ❌     |
+| Feature 2 |    ✅    |     ❌     |
+| Feature 3 |    ✅    |     ❌     |
+
+_Tip_:Try to publish when all the features are ✅ instead of ❌
+
 ## Blog posts
 
 - [Authentication with Vue(x)+Firebase](https://dev.to/crisarji/authentication-with-vue-x-firebase-31dc)
@@ -59,4 +71,6 @@ In case you cannot see the assets it is 99% sure that the path is wrong.
 
 - [Vue Slots + Reusable Components](https://dev.to/crisarji/vue-slots-and-reusable-components-5g3p)
 
-- [My Vue Experience after 3 projects in 1.5 years](https://dev.to)
+- [My Vue Experience after 3 projects in 1.5 years](https://dev.to/crisarji/my-vue-experience-after-3-projects-in-18-months-456c)
+
+- [How I met your... Scraper?](https://dev.to)

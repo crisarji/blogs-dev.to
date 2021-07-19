@@ -26,5 +26,9 @@
   {
     "id": 726269,
     "relativePathToArticle": "./blog-posts/vue-experience-2021/vue-experience-2021.md"
+  },
+  {
+    "id": 761926,
+    "relativePathToArticle": "./blog-posts/scraping-template/scraping-template.md"
   }
 ]

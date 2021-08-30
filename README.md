@@ -73,4 +73,6 @@ _Tip_:Try to publish when all the features are ✅ instead of ❌
 
 - [My Vue Experience after 3 projects in 1.5 years](https://dev.to/crisarji/my-vue-experience-after-3-projects-in-18-months-456c)
 
-- [How I met your... Scraper?](https://dev.to)
+- [How I met your... Scraper?](https://dev.to/crisarji/how-i-met-your-scraper-4n6o)
+
+- [What & Why Senior skills](https://dev.to)

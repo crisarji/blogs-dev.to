@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: How I met your...Scraper? 
 description: How I met the use of tools for web scraping
 tags: node, express, puppeteer, nodemailer

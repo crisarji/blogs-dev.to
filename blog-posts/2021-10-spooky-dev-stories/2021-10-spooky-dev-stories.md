@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Spooky Dev Stories
 description: Halloween dev stories
 tags: halloween, spooky

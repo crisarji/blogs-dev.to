@@ -75,4 +75,6 @@ _Tip_:Try to publish when all the features are ✅ instead of ❌
 
 - [How I met your... Scraper?](https://dev.to/crisarji/how-i-met-your-scraper-4n6o)
 
-- [What & Why Senior skills](https://dev.to)
+- [What & Why Senior skills](https://dev.to/crisarji/the-whats-whys-in-a-fe-senior-position-1kp7)
+
+- [5 Tips for handling tough conversations](https://dev.to)

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: The Whats & Whys in a FE Senior position
 description: Concepts to handle when opting in for a senior position and the reason behind
 tags: javascript, webframeworks, techskills, senior

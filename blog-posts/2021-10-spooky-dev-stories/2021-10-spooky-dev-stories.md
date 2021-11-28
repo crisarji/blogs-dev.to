@@ -8,8 +8,6 @@ series:
 canonical_url:
 ---
 
-## Tech Skills: The Whats & Whys in a FE Senior position
-
 Hello developer pal!, glad to see you here.
 
 What about sharing one spooky story from your life as dev?, me first!

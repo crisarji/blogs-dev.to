@@ -77,4 +77,6 @@ _Tip_:Try to publish when all the features are ✅ instead of ❌
 
 - [What & Why Senior skills](https://dev.to/crisarji/the-whats-whys-in-a-fe-senior-position-1kp7)
 
+- [Spooky Dev Stories](https://dev.to/crisarji/spooky-dev-stories-5345)
+
 - [5 Tips for handling tough conversations](https://dev.to)

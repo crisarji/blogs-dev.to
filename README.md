@@ -59,6 +59,8 @@ _Tip_:Try to publish when all the features are ✅ instead of ❌
 
 ## Blog posts
 
+### 2021
+
 - [Authentication with Vue(x)+Firebase](https://dev.to/crisarji/authentication-with-vue-x-firebase-31dc)
 
 - [Adding roles to the authentication with Vue(x)+Firebase](https://dev.to/crisarji/adding-roles-to-the-authentication-with-vue-x-firebase-2o62)
@@ -78,5 +80,9 @@ _Tip_:Try to publish when all the features are ✅ instead of ❌
 - [What & Why Senior skills](https://dev.to/crisarji/the-whats-whys-in-a-fe-senior-position-1kp7)
 
 - [Spooky Dev Stories](https://dev.to/crisarji/spooky-dev-stories-5345)
+
+- [Lessons Learned of Connect Tech 2021](https://dev.to/crisarji/lessons-learned-of-connect-tech-2021-469m)
+
+### 2022
 
 - [5 Tips for handling tough conversations](https://dev.to)

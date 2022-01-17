@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Lessons Learned of Connect Tech 2021
 description: Lessons learned of a conference back in person
 tags: javascript, react, vue, angular

@@ -85,4 +85,6 @@ _Tip_:Try to publish when all the features are ✅ instead of ❌
 
 ### 2022
 
-- [5 Tips for handling tough conversations](https://dev.to)
+- [5 Tips for handling tough conversations](https://dev.to/crisarji/5-tips-for-dealing-with-tough-conversations-in-agile-teams-11l8)
+
+- [Tech Interviews: 5 tips for interviewing "peer-ple"](https://dev.to)

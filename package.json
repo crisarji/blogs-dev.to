@@ -16,7 +16,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "cacheable-request": "7.0.2",
+    "cacheable-request": "10.2.7",
     "dev-to-git": "^1.4.1",
     "embedme": "1.11.0",
     "normalize-url": "6.0.1",
